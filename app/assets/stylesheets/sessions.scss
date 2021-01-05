@@ -1,0 +1,27 @@
+// Place all the styles related to the Sessions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+#login-box {
+  position: relative;
+  margin: 5% auto;
+  width: 600px;
+  height: 400px;
+  background: #FFF;
+  opacity:0.9;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+.row {
+  position: relative;
+  width: 620px;
+  height: 400px;
+  background: url('ny7.jpeg');
+  background-size:cover;
+  background-position:bottom;
+  border-radius:10px;
+}
+.Pro {
+    position: relative;
+    border-radius: 10px;
+
+}
